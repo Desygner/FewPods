@@ -17,7 +17,7 @@
                BlueprintIdentifier = "C0E41540D6862472ED7F2FA11669BE1F"
                BuildableName = "Crashlytics"
                BlueprintName = "Crashlytics"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

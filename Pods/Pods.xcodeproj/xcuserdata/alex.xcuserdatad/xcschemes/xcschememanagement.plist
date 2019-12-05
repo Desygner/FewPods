@@ -39,26 +39,12 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Crashlytics.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>5</integer>
-		</dict>
 		<key>EZYGradientView.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false />
 			<key>orderHint</key>
 			<integer>6</integer>
-		</dict>
-		<key>Fabric.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>7</integer>
 		</dict>
 		<key>Flurry-iOS-SDK.xcscheme_^#shared#^_</key>
 		<dict>

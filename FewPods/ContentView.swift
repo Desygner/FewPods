@@ -7,11 +7,16 @@
 //
 
 import SwiftUI
+import TwitterKit
 
 struct ContentView: View {
     var body: some View {
         Text("Hello, World!")
     }
+}
+
+func hello() {
+    let a = TWTRTwitter.sharedInstance()
 }
 
 struct ContentView_Previews: PreviewProvider {

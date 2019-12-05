@@ -17,7 +17,7 @@
                BlueprintIdentifier = "ABB048B191245233986A7CD75FE412A5"
                BuildableName = "Fabric"
                BlueprintName = "Fabric"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
