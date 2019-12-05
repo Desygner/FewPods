@@ -1,0 +1,6 @@
+framework module AHEasingPod {
+  umbrella header "AHEasingPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

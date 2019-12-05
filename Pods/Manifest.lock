@@ -1,0 +1,143 @@
+PODS:
+  - AGGeometryKit (1.2.9):
+    - AGGeometryKit/CALayerProperties (= 1.2.9)
+    - AGGeometryKit/UIViewProperties (= 1.2.9)
+  - "AGGeometryKit+POP (0.1)":
+    - "AGGeometryKit+POP/Default (= 0.1)"
+  - "AGGeometryKit+POP/Default (0.1)":
+    - AGGeometryKit (~> 1.0)
+    - pop (~> 1.0.4)
+  - AGGeometryKit/CALayerProperties (1.2.9)
+  - AGGeometryKit/UIViewProperties (1.2.9)
+  - AHEasingPod (1.1)
+  - AMPopTip (0.9)
+  - CocoaLumberjack/Core (3.5.3)
+  - CocoaLumberjack/Swift (3.5.3):
+    - CocoaLumberjack/Core
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - EZYGradientView (1.5.1)
+  - Fabric (1.10.2)
+  - Flurry-iOS-SDK/FlurrySDK (10.0.2)
+  - GzipSwift (5.0.0)
+  - HexColors (4.0.0)
+  - HTGradientEasing-Fixed (0.0.8):
+    - AHEasingPod
+    - UIColor-CrossFade
+  - KeychainAccess (3.2.1)
+  - LGSideMenuController (2.1.1)
+  - NSLogger (1.9.7):
+    - NSLogger/ObjC (= 1.9.7)
+  - NSLogger/ObjC (1.9.7)
+  - OnlyPictures (2.0.0)
+  - pop (1.0.12)
+  - RMPZoomTransitionAnimator (1.0.3)
+  - SMScrollView (0.1.0)
+  - SSZipArchive (2.2.2)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+  - "UIAlertController+Blocks (0.9.2)"
+  - UIColor-CrossFade (1.1.0)
+  - Underscore.m (0.3.0)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - "AGGeometryKit+POP"
+  - AMPopTip (= 0.9)
+  - CocoaLumberjack/Swift (= 3.5.3)
+  - Crashlytics (= 3.14.0)
+  - EZYGradientView (from `https://github.com/Niphery/EZYGradientView`)
+  - Fabric (= 1.10.2)
+  - Flurry-iOS-SDK/FlurrySDK (= 10.0.2)
+  - GzipSwift (= 5.0.0)
+  - HexColors (= 4.0.0)
+  - HTGradientEasing-Fixed (from `https://github.com/alexandre-g/HTGradientEasing`)
+  - KeychainAccess (~> 3.2.0)
+  - LGSideMenuController
+  - NSLogger (= 1.9.7)
+  - OnlyPictures (from `https://github.com/alexandre-g/OnlyPictures`)
+  - RMPZoomTransitionAnimator
+  - SMScrollView
+  - SSZipArchive (= 2.2.2)
+  - TwitterKit (= 3.4.2)
+  - "UIAlertController+Blocks"
+  - Underscore.m (= 0.3.0)
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - AGGeometryKit
+    - "AGGeometryKit+POP"
+    - AHEasingPod
+    - AMPopTip
+    - CocoaLumberjack
+    - Crashlytics
+    - Fabric
+    - Flurry-iOS-SDK
+    - GzipSwift
+    - HexColors
+    - KeychainAccess
+    - LGSideMenuController
+    - NSLogger
+    - pop
+    - RMPZoomTransitionAnimator
+    - SMScrollView
+    - SSZipArchive
+    - TwitterCore
+    - TwitterKit
+    - "UIAlertController+Blocks"
+    - UIColor-CrossFade
+    - Underscore.m
+    - youtube-ios-player-helper
+
+EXTERNAL SOURCES:
+  EZYGradientView:
+    :git: https://github.com/Niphery/EZYGradientView
+  HTGradientEasing-Fixed:
+    :git: https://github.com/alexandre-g/HTGradientEasing
+  OnlyPictures:
+    :git: https://github.com/alexandre-g/OnlyPictures
+
+CHECKOUT OPTIONS:
+  EZYGradientView:
+    :commit: e8cc7bf2fb77557af214289288ebc96776ffbf57
+    :git: https://github.com/Niphery/EZYGradientView
+  HTGradientEasing-Fixed:
+    :commit: 98ac0e1517f2f6fa39ec75bc64a6b6a3ee3b1793
+    :git: https://github.com/alexandre-g/HTGradientEasing
+  OnlyPictures:
+    :commit: aab09e4fda37e8f87101178443bf4e266d55c791
+    :git: https://github.com/alexandre-g/OnlyPictures
+
+SPEC CHECKSUMS:
+  AGGeometryKit: 5e820bd2a8290e3b1e3a1517a49c65ae42c239c9
+  "AGGeometryKit+POP": 72c980191db0646c31bed0b1ffd571e05f9ad029
+  AHEasingPod: d699c290e5ecbfced993b9c0f3028aa76e6efe99
+  AMPopTip: 28545f7c437add3b2b19f355dd6e695895499a50
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  EZYGradientView: f13e7a9e774b906c66d617fb04a13c8853ba25b4
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  Flurry-iOS-SDK: 71da0ebf2088b15d8899da71050efc8b33bfd21f
+  GzipSwift: 5592f4d62b641e04d06443ba471f8ed76b1363e4
+  HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
+  HTGradientEasing-Fixed: 67b1b02375468028e3a45ba7c0494c7b0293614e
+  KeychainAccess: d5470352939ced6d6f7fb51cb2e67aae51fc294f
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  NSLogger: cf3013a4fba189f631f07e6c3d5b8ce2b209654b
+  OnlyPictures: c9f2eb203b9461ae18f7b08a8d384aa668b6cd39
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  RMPZoomTransitionAnimator: 33ded739d91052810c05c8e553663cc9ec79275b
+  SMScrollView: 5eb8928f90f5296cf65e0c8d23a7968e043bbf30
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+  "UIAlertController+Blocks": 80e28b92523fb58aba4d1bccec013d5a0b0bddb2
+  UIColor-CrossFade: 1e0dd1329ae45c6298f2b6b10d2bffc1e5af5d20
+  Underscore.m: dc9ca06fe2c9a79d01ce20c3d2c1e8f91f2d92dc
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: a57c7d5d0ea7df2e05bfe1adc2d50b7649409d44
+
+COCOAPODS: 1.8.4
