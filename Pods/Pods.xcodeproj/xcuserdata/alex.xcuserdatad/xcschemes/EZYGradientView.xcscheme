@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D00CB32012A3427C4C4C915DA23BAE8C"
-               BuildableName = "Pods-FewPods.framework"
-               BlueprintName = "Pods-FewPods"
+               BlueprintIdentifier = "EF8B1B5A0C2B37C85D7BBFB49DECD043"
+               BuildableName = "EZYGradientView.framework"
+               BlueprintName = "EZYGradientView"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

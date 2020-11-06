@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D00CB32012A3427C4C4C915DA23BAE8C"
-               BuildableName = "Pods-FewPods.framework"
-               BlueprintName = "Pods-FewPods"
+               BlueprintIdentifier = "817E9C368FDE1F9A6D9F0D579BDD0C19"
+               BuildableName = "UIColor-CrossFade.framework"
+               BlueprintName = "UIColor-CrossFade"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

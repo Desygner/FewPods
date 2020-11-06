@@ -25,8 +25,6 @@ def shared_pods
   pod 'Underscore.m', '0.3.0'
   pod 'RMPZoomTransitionAnimator'
   pod 'HexColors', '4.0.0'
-  pod 'Fabric', '1.10.2'
-  pod 'Crashlytics', '3.14.0'
   pod 'UIAlertController+Blocks'
   pod 'LGSideMenuController'
   pod 'EZYGradientView', :git => 'https://github.com/Niphery/EZYGradientView'

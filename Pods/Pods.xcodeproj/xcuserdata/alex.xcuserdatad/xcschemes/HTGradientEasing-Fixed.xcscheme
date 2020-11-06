@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D00CB32012A3427C4C4C915DA23BAE8C"
-               BuildableName = "Pods-FewPods.framework"
-               BlueprintName = "Pods-FewPods"
+               BlueprintIdentifier = "160B1A546E3B4B424D68E7EA85C674D6"
+               BuildableName = "HTGradientEasing-Fixed.framework"
+               BlueprintName = "HTGradientEasing-Fixed"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

@@ -14,10 +14,7 @@ PODS:
   - CocoaLumberjack/Core (3.5.3)
   - CocoaLumberjack/Swift (3.5.3):
     - CocoaLumberjack/Core
-  - Crashlytics (3.14.0):
-    - Fabric (~> 1.10.2)
   - EZYGradientView (1.5.1)
-  - Fabric (1.10.2)
   - Flurry-iOS-SDK/FlurrySDK (10.0.2)
   - GzipSwift (5.0.0)
   - HexColors (4.0.0)
@@ -46,9 +43,7 @@ DEPENDENCIES:
   - "AGGeometryKit+POP"
   - AMPopTip (= 0.9)
   - CocoaLumberjack/Swift (= 3.5.3)
-  - Crashlytics (= 3.14.0)
   - EZYGradientView (from `https://github.com/Niphery/EZYGradientView`)
-  - Fabric (= 1.10.2)
   - Flurry-iOS-SDK/FlurrySDK (= 10.0.2)
   - GzipSwift (= 5.0.0)
   - HexColors (= 4.0.0)
@@ -72,8 +67,6 @@ SPEC REPOS:
     - AHEasingPod
     - AMPopTip
     - CocoaLumberjack
-    - Crashlytics
-    - Fabric
     - Flurry-iOS-SDK
     - GzipSwift
     - HexColors
@@ -116,9 +109,7 @@ SPEC CHECKSUMS:
   AHEasingPod: d699c290e5ecbfced993b9c0f3028aa76e6efe99
   AMPopTip: 28545f7c437add3b2b19f355dd6e695895499a50
   CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
-  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
   EZYGradientView: f13e7a9e774b906c66d617fb04a13c8853ba25b4
-  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
   Flurry-iOS-SDK: 71da0ebf2088b15d8899da71050efc8b33bfd21f
   GzipSwift: 5592f4d62b641e04d06443ba471f8ed76b1363e4
   HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
@@ -138,6 +129,6 @@ SPEC CHECKSUMS:
   Underscore.m: dc9ca06fe2c9a79d01ce20c3d2c1e8f91f2d92dc
   youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
 
-PODFILE CHECKSUM: a57c7d5d0ea7df2e05bfe1adc2d50b7649409d44
+PODFILE CHECKSUM: fba8e520996e45876b4f8d8770f7df2debe2336f
 
 COCOAPODS: 1.8.4
