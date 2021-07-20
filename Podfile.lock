@@ -100,7 +100,7 @@ CHECKOUT OPTIONS:
     :commit: 98ac0e1517f2f6fa39ec75bc64a6b6a3ee3b1793
     :git: https://github.com/alexandre-g/HTGradientEasing
   OnlyPictures:
-    :commit: aab09e4fda37e8f87101178443bf4e266d55c791
+    :commit: 9df614d02c55674e23a87fa8fcfe72edddef00bf
     :git: https://github.com/alexandre-g/OnlyPictures
 
 SPEC CHECKSUMS:
@@ -131,4 +131,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: fba8e520996e45876b4f8d8770f7df2debe2336f
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.3
