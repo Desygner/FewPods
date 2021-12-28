@@ -4,183 +4,131 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AGGeometryKit+POP.xcscheme_^#shared#^_</key>
+		<key>Sheeeeeeeeet.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>AGGeometryKit.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
+			<true />
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>AHEasingPod.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>2</integer>
-		</dict>
-		<key>AMPopTip.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>CocoaLumberjack.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>4</integer>
-		</dict>
-		<key>EZYGradientView.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>6</integer>
-		</dict>
-		<key>Flurry-iOS-SDK.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>8</integer>
-		</dict>
-		<key>GzipSwift.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>9</integer>
-		</dict>
-		<key>HTGradientEasing-Fixed.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>11</integer>
-		</dict>
-		<key>HexColors.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>10</integer>
-		</dict>
-		<key>KeychainAccess.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>12</integer>
-		</dict>
-		<key>LGSideMenuController.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>13</integer>
-		</dict>
-		<key>NSLogger.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>14</integer>
-		</dict>
-		<key>OnlyPictures.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>15</integer>
-		</dict>
-		<key>Pods-FewPods.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>16</integer>
-		</dict>
-		<key>RMPZoomTransitionAnimator.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>18</integer>
-		</dict>
-		<key>SMScrollView.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>19</integer>
-		</dict>
-		<key>SSZipArchive.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>20</integer>
-		</dict>
-		<key>TwitterCore.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>21</integer>
-		</dict>
-		<key>TwitterKit.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>22</integer>
-		</dict>
-		<key>UIAlertController+Blocks.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>23</integer>
-		</dict>
-		<key>UIColor-CrossFade.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>24</integer>
-		</dict>
-		<key>Underscore.m.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>25</integer>
-		</dict>
-		<key>pop.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>17</integer>
-		</dict>
-		<key>youtube-ios-player-helper.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<false />
-			<key>orderHint</key>
-			<integer>26</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict />
+	<dict>
+		<key>0483D7F620C992E5C4BD62A7266EABB4</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>0B974B55B3C5F71E53DF6070DC0CF6CF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>0E1EC8CEFCB04F48D36C12CD11425CAC</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>10F1357926C75B4E97533881F4C300B7</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>160B1A546E3B4B424D68E7EA85C674D6</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>23EE62D8F7B4475F49FFAC72AEF81FAF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>338626EF5F3DD87166DF9ECC2554E8B7</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>3DD3A842074A1F93E07B18749114625C</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>467DF159A1304F78F00D61C5BBFC211F</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>54840A8C2FBB21242080CDCBE1790204</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>615C831BCE925ED486B225B87E44926D</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>817E9C368FDE1F9A6D9F0D579BDD0C19</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>8868051ECB7CB2E1A56270E3A6281973</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>A32C4ABAD340EF70D804888BC2621AD8</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>A7BE256EA2521B526245D404FF5E841F</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>CECF14F0372A23E5FC739C7DF2D3D73A</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>D00CB32012A3427C4C4C915DA23BAE8C</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>D1A7AF186BE136DE56FD5699070589B8</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>E19251F11A7059D99F0116FD6616C97E</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>E95654B155D25890BE8E26081FCA8265</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>EF8B1B5A0C2B37C85D7BBFB49DECD043</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>F4FF2E4A219F611C67CFDF23319A478A</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>F60E38364AFF5E1349FF07415B944396</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
 </dict>
 </plist>

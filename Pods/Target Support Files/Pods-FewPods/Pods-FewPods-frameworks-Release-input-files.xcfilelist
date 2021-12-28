@@ -16,8 +16,7 @@ ${BUILT_PRODUCTS_DIR}/OnlyPictures/OnlyPictures.framework
 ${BUILT_PRODUCTS_DIR}/RMPZoomTransitionAnimator/RMPZoomTransitionAnimator.framework
 ${BUILT_PRODUCTS_DIR}/SMScrollView/SMScrollView.framework
 ${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework
-${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework
-${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework
+${BUILT_PRODUCTS_DIR}/Sheeeeeeeeet/Sheeeeeeeeet.framework
 ${BUILT_PRODUCTS_DIR}/UIAlertController+Blocks/UIAlertController_Blocks.framework
 ${BUILT_PRODUCTS_DIR}/UIColor-CrossFade/UIColor_CrossFade.framework
 ${BUILT_PRODUCTS_DIR}/Underscore.m/Underscore_m.framework

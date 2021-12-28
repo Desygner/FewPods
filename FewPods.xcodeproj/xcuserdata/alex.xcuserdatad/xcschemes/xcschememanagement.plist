@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict />
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FewPods.xcscheme</key>
+		<key>FAA70D6E2398E18F00AE5ADB</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>27</integer>
+			<key>primary</key>
+			<true />
 		</dict>
 	</dict>
 </dict>

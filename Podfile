@@ -3,9 +3,9 @@ def shared_base
   inhibit_all_warnings!
   platform :ios, '10.0'
   # pod 'R.swift', '5.0.3'
-  pod 'CocoaLumberjack/Swift', '3.5.3'
+  pod 'CocoaLumberjack/Swift', '3.7.2'
   pod 'NSLogger', '1.9.7'
-  pod 'KeychainAccess', '~> 3.2.0'
+  pod 'KeychainAccess', '~> 4.2.2'
 end
 
 def shared_pods
@@ -28,11 +28,11 @@ def shared_pods
   pod 'UIAlertController+Blocks'
   pod 'LGSideMenuController'
   pod 'EZYGradientView', :git => 'https://github.com/Niphery/EZYGradientView'
-  pod 'Flurry-iOS-SDK/FlurrySDK', '10.0.2'
+  pod 'Flurry-iOS-SDK/FlurrySDK', '11.4.0'
   pod "youtube-ios-player-helper"
   pod 'GzipSwift', '5.0.0'
-  pod 'TwitterKit', '3.4.2'
   pod 'OnlyPictures', :git => 'https://github.com/alexandre-g/OnlyPictures'
+  pod 'Sheeeeeeeeet'
 end
 
 
@@ -74,6 +74,10 @@ post_install do |installer|
       else
         config.build_settings['SWIFT_OPTIMIZATION_LEVEL'] = '-Onone'
       end
+    end
+
+    target.build_configurations.each do |config|
+      config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
     end
   end
 
