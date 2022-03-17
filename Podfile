@@ -20,7 +20,7 @@ def shared_pods
   pod "SMScrollView"
   pod 'SSZipArchive', '2.2.2'
   # pod 'HTGradientEasing-Fixed'
-  pod 'HTGradientEasing-Fixed', :git => 'https://github.com/alexandre-g/HTGradientEasing'
+  pod 'HTGradientEasing-Fixed', :git => 'https://github.com/Desygner/HTGradientEasing'
   pod 'AGGeometryKit+POP'
   pod 'Underscore.m', '0.3.0'
   pod 'RMPZoomTransitionAnimator'
@@ -31,7 +31,7 @@ def shared_pods
   pod 'Flurry-iOS-SDK/FlurrySDK', '11.4.0'
   pod "youtube-ios-player-helper"
   pod 'GzipSwift', '5.0.0'
-  pod 'OnlyPictures', :git => 'https://github.com/alexandre-g/OnlyPictures'
+  pod 'OnlyPictures', :git => 'https://github.com/Desygner/OnlyPictures'
   pod 'Sheeeeeeeeet'
 end
 
