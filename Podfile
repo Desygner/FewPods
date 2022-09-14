@@ -28,7 +28,7 @@ def shared_pods
   pod 'UIAlertController+Blocks'
   pod 'LGSideMenuController'
   pod 'EZYGradientView', :git => 'https://github.com/Niphery/EZYGradientView'
-  pod 'Flurry-iOS-SDK/FlurrySDK', '11.4.0'
+  pod 'Flurry-iOS-SDK/FlurrySDK'
   pod "youtube-ios-player-helper"
   pod 'GzipSwift', '5.0.0'
   pod 'OnlyPictures', :git => 'https://github.com/Desygner/OnlyPictures'

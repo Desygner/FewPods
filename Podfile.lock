@@ -15,7 +15,9 @@ PODS:
   - CocoaLumberjack/Swift (3.7.2):
     - CocoaLumberjack/Core
   - EZYGradientView (1.5.1)
-  - Flurry-iOS-SDK/FlurrySDK (11.4.0)
+  - Flurry-iOS-SDK/CrashReporter (12.1.1)
+  - Flurry-iOS-SDK/FlurrySDK (12.1.1):
+    - Flurry-iOS-SDK/CrashReporter
   - GzipSwift (5.0.0)
   - HexColors (4.0.0)
   - HTGradientEasing-Fixed (0.0.8):
@@ -42,14 +44,14 @@ DEPENDENCIES:
   - AMPopTip (= 0.9)
   - CocoaLumberjack/Swift (= 3.7.2)
   - EZYGradientView (from `https://github.com/Niphery/EZYGradientView`)
-  - Flurry-iOS-SDK/FlurrySDK (= 11.4.0)
+  - Flurry-iOS-SDK/FlurrySDK
   - GzipSwift (= 5.0.0)
   - HexColors (= 4.0.0)
-  - HTGradientEasing-Fixed (from `https://github.com/alexandre-g/HTGradientEasing`)
+  - HTGradientEasing-Fixed (from `https://github.com/Desygner/HTGradientEasing`)
   - KeychainAccess (~> 4.2.2)
   - LGSideMenuController
   - NSLogger (= 1.9.7)
-  - OnlyPictures (from `https://github.com/alexandre-g/OnlyPictures`)
+  - OnlyPictures (from `https://github.com/Desygner/OnlyPictures`)
   - RMPZoomTransitionAnimator
   - Sheeeeeeeeet
   - SMScrollView
@@ -85,9 +87,9 @@ EXTERNAL SOURCES:
   EZYGradientView:
     :git: https://github.com/Niphery/EZYGradientView
   HTGradientEasing-Fixed:
-    :git: https://github.com/alexandre-g/HTGradientEasing
+    :git: https://github.com/Desygner/HTGradientEasing
   OnlyPictures:
-    :git: https://github.com/alexandre-g/OnlyPictures
+    :git: https://github.com/Desygner/OnlyPictures
 
 CHECKOUT OPTIONS:
   EZYGradientView:
@@ -95,10 +97,10 @@ CHECKOUT OPTIONS:
     :git: https://github.com/Niphery/EZYGradientView
   HTGradientEasing-Fixed:
     :commit: 98ac0e1517f2f6fa39ec75bc64a6b6a3ee3b1793
-    :git: https://github.com/alexandre-g/HTGradientEasing
+    :git: https://github.com/Desygner/HTGradientEasing
   OnlyPictures:
     :commit: 9df614d02c55674e23a87fa8fcfe72edddef00bf
-    :git: https://github.com/alexandre-g/OnlyPictures
+    :git: https://github.com/Desygner/OnlyPictures
 
 SPEC CHECKSUMS:
   AGGeometryKit: 5e820bd2a8290e3b1e3a1517a49c65ae42c239c9
@@ -107,7 +109,7 @@ SPEC CHECKSUMS:
   AMPopTip: 28545f7c437add3b2b19f355dd6e695895499a50
   CocoaLumberjack: b7e05132ff94f6ae4dfa9d5bce9141893a21d9da
   EZYGradientView: f13e7a9e774b906c66d617fb04a13c8853ba25b4
-  Flurry-iOS-SDK: a1dbf099040d71e89a11cdf3a30c8723c1de950f
+  Flurry-iOS-SDK: 2ae2391515ae3248a63e95a397c1b393ae52b3a9
   GzipSwift: 5592f4d62b641e04d06443ba471f8ed76b1363e4
   HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
   HTGradientEasing-Fixed: 67b1b02375468028e3a45ba7c0494c7b0293614e
@@ -125,6 +127,6 @@ SPEC CHECKSUMS:
   Underscore.m: dc9ca06fe2c9a79d01ce20c3d2c1e8f91f2d92dc
   youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
 
-PODFILE CHECKSUM: 023a004a83b35594db2def0d3253cb1ed4aa0e9c
+PODFILE CHECKSUM: 1e299af0abf4663bd010d9125b0eda7c9ab5db8a
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.11.3
